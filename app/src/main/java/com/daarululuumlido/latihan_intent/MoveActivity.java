@@ -1,4 +1,4 @@
-package com.daarululuumlido.latihan_intent_sederhana;
+package com.daarululuumlido.latihan_intent;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
